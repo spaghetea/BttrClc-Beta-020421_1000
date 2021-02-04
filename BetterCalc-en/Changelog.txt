@@ -1,0 +1,8 @@
+# alpha_170121_1855
+From now you can exponate the number and mod it
+
+# alpha_170121_1905
+Just some accessories and feature to div the number
+
+# beta_020421_1000
+BetterCalc is in English now! BetterCalc was a little bit optimized. From now you can find a square root of the number, find a factorial of the number and round the number either to floor or ceil!
